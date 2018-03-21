@@ -1,0 +1,6 @@
+{
+    "name": "lukchojnicki/gg-bot-api-lib",
+    "description": "Source copied from https://boty.gg.pl/ so it can be available as git or composer package.",
+    "type": "library",
+    "license": "GNU v3"
+}
